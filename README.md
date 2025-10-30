@@ -2,8 +2,8 @@
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 ```
-Developed by: Tamil Selvan S
-RegisterNumber: 25018815
+Developed by: 
+RegisterNumber: 25018843
 ```
 
 **AIM:**
